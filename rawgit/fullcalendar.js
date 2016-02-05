@@ -55,7 +55,7 @@ $.fn.extend({
 		});
 	
 		return res;
-	};	
+	}	
 });
 /*
 $.fn.fullCalendar = function(options) {
