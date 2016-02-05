@@ -33,7 +33,8 @@
 	})(function($, moment) {
 
 	;;
-
+	
+    $.fullCalendar = new Object();
 	var FC = $.fullCalendar = {
 		version: "2.6.0",
 		internalApiVersion: 2
